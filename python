@@ -1,4 +1,0 @@
-import sys
-
-number = int(argv[1])
-hex_string = hex(number)
