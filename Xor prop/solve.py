@@ -4,6 +4,7 @@ KEY2xKEY3 = "c1545756687e7573db23aa1c3452a098b71a7fbf0fddddde5fc1"
 FLAGxKEY1xKEY3xKEY2 = "04ee9855208a2cd59091d04767ae47963170d1660df7f56f5faf"
 
 
+
 def xor(hex_string_1, hex_string_2):
     hexed = ""
     for i in range(0, len(hex_string_1), 2):
